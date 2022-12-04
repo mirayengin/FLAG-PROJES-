@@ -1,0 +1,101 @@
+fa-circle-location-arrow {
+    color: black;
+    width: 40px;
+    height: 40px;
+}
+body {
+    background-image: url(./hands-600497_1280.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* padding: 2rem; */
+}
+
+.first {
+    color: red;
+    font-weight: bolder;
+    box-shadow: 10px 10px 10px 10px rgb(29, 28, 28);
+    background-color: rgb(245, 239, 239);
+    padding: 0.5rem;
+    border-radius: 10px;
+}
+
+
+.form-select {
+    margin-top: 0.8rem;
+    background: black;
+    color: white;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* padding: 1rem; */
+}
+
+.Europe {
+    background-image: url(./schengen-harita.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+.Asia {
+    background-image: url(./Asya-gezi-rehberi-harita.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+
+.Africa {
+    background-image: url(./e83a3c2a64e6a5acd0d958fae709931a271904b0.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+
+.Americas {
+    background-image: url(./geographic-map-of-north-america-usa-map-north-america-continent-canada-map-mexico-map.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+
+.Oceania {
+    background-image: url(./map-of-oceania.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.Polar {
+    background-image: url(./Antarctica.svg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+
+
+
+
+
+
